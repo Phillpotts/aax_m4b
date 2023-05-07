@@ -1,0 +1,11 @@
+# file: docker-compose.yml
+version: '3'
+services:
+  node:
+    container_name: node-runner
+    image: node
+    platform: linux/amd64
+    volumes:
+      - "./:/usr/src/app"
+    privileged: true
+    working_dir: /usr/src/app
