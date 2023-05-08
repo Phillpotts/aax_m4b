@@ -1,7 +1,7 @@
 {
-    "name": "node_typescript_seed",
+    "name": "aax_m4b",
     "version": "0.0.1",
-    "description": "A Template Repository for a NodeJS Project.",
+    "description": "Convert one of more files from aax to m4b",
     "author": "william.phillpotts@googlemail.com",
     "main": "./dist/index.js",
     "scripts": {
